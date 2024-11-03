@@ -16,7 +16,7 @@ This project is a smart irrigation system that uses the ESP8266 microcontroller 
 - **Water Pump**: Provides irrigation when soil is dry.
 
 ## Circuit Diagram
-![Circuit Diagram](circuit-diagram.png)
+![Circuit Diagram](circuit diagram smart irrigation.jpg)
 
 
 ## Code Explanation
