@@ -18,7 +18,6 @@ This project is a smart irrigation system that uses the ESP8266 microcontroller 
 ## Circuit Diagram
 ![Circuit Diagram](circuit-diagram.png)
 
-*Replace `circuit-diagram.png` with the actual filename you uploaded.*
 
 ## Code Explanation
 The code uses the following logic to automate the irrigation system:
